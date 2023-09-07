@@ -1,7 +1,7 @@
 # assignment_five
 
-Assignment 5
-<img src="https://imgur.com/VfMPCSa.png">
+<img src="https://imgur.com/VfMPCSa.png" height="380">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
